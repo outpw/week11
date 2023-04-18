@@ -1,0 +1,101 @@
+<?xml version="1.0"?>
+<people>
+   <person id="1">
+      <firstName>Phil</firstName>
+      <lastName>White</lastName>
+      <role>Instructor</role>
+      <seatPosition>Prof's seat</seatPosition>
+      <age>27</age>
+   </person>
+    <person id="2">
+       <firstName>Gretta</firstName>
+       <lastName>Allen</lastName>
+       <role>Student</role>
+       <seatPosition>Front of classroom</seatPosition>
+       <age>75</age>
+    </person>
+     <person id="3">
+        <firstName>Gabriella</firstName>
+        <lastName>Brinkley</lastName>
+        <role>Student</role>
+        <seatPosition>East wall of classroom</seatPosition>
+        <age>65</age>
+    </person>
+     <person id="4">
+        <firstName>Hilary</firstName>
+        <lastName>Brumberg</lastName>
+        <role>Student</role>
+        <seatPosition>Middle of classroom</seatPosition>
+        <age>79</age>
+    </person>
+     <person id="5">
+        <firstName>Cameron</firstName>
+        <lastName>Chambers</lastName>
+        <role>Student</role>
+        <seatPosition>Back of classroom</seatPosition>
+        <age>88</age>
+    </person>
+     <person id="6">
+        <firstName>Buddy</firstName>
+        <lastName>Collins</lastName>
+        <role>Student</role>
+        <seatPosition>Middle of classroom</seatPosition>
+        <age>57</age>
+    </person>
+     <person id="7">
+        <firstName>Caleb</firstName>
+        <lastName>Cordsen</lastName>
+        <role>Student</role>
+        <seatPosition>Middle of classroom</seatPosition>
+        <age>100</age>
+    </person>
+     <person id="8">
+        <firstName>Midori</firstName>
+        <lastName>Coyle</lastName>
+        <role>Student</role>
+        <seatPosition>Front of classroom</seatPosition>
+        <age>100</age>
+    </person>
+     <person id="9">
+        <firstName>Fabiana</firstName>
+        <lastName>Fuentes</lastName>
+        <role>Student</role>
+        <seatPosition>Front of classroom</seatPosition>
+        <age>106</age>
+    </person>
+     <person id="10">
+        <firstName>Thomas</firstName>
+        <lastName>Herrmann</lastName>
+        <role>Student</role>
+        <seatPosition>Back of classroom</seatPosition>
+        <age>67</age>
+    </person>
+     <person id="11">
+        <firstName>Nolan</firstName>
+        <lastName>Johan</lastName>
+        <role>Student</role>
+        <seatPosition>West wall of classroom</seatPosition>
+        <age>81</age>
+    </person>
+     <person id="12">
+        <firstName>Tate</firstName>
+        <lastName>Knight</lastName>
+        <role>Student</role>
+        <seatPosition>East Wall of classroom</seatPosition>
+        <age>55</age>
+    </person>
+     <person id="13">
+        <firstName>Anna</firstName>
+        <lastName>Lopresti</lastName>
+        <role>Student</role>
+        <seatPosition>Back of classroom</seatPosition>
+        <age>67</age>
+    </person>
+     <person id="14">
+        <firstName>Ellie</firstName>
+        <lastName>Prain</lastName>
+        <role>Student</role>
+        <seatPosition>Back of classroom</seatPosition>
+        <age>99</age>
+    </person>
+</people>

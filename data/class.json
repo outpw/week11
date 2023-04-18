@@ -1,0 +1,116 @@
+{
+  "people": [
+    {
+      "id": 1,
+      "firstName": "Phil",
+      "lastName": "White",
+      "role": "Instructor",
+      "seatPosition": "Prof's seat",
+      "age": 27
+    },
+    {
+      "id": 2,
+      "firstName": "Gretta",
+      "lastName": "Allen",
+      "role": "Student",
+      "seatPosition": "Front of classroom",
+      "age": 65
+    },
+    {
+      "id": 3,
+      "firstName": "Gabriella",
+      "lastName": "Brinkley",
+      "role": "Student",
+      "seatPosition": "East wall of classroom",
+      "age": 79
+    },
+    {
+      "id": 4,
+      "firstName": "Hilary",
+      "lastName": "Brumberg",
+      "role": "Student",
+      "seatPosition": "Middle of classroom",
+      "age": 81
+    },
+    {
+      "id": 5,
+      "firstName": "Cameron",
+      "lastName": "Chambers",
+      "role": "Student",
+      "seatPosition": "Back of classroom",
+      "age": 88
+    },
+    {
+      "id": 6,
+      "firstName": "Buddy",
+      "lastName": "Collins",
+      "role": "Student",
+      "seatPosition": "Middle of classroom",
+      "age": 57
+    },
+    {
+      "id": 7,
+      "firstName": "Caleb",
+      "lastName": "Cordsen",
+      "role": "Student",
+      "seatPosition": "Middle of classroom",
+      "age": 100
+    },
+    {
+      "id": 8,
+      "firstName": "Midori",
+      "lastName": "Coyle",
+      "role": "Student",
+      "seatPosition": "Front of classroom",
+      "age": 93
+    },
+    {
+      "id": 9,
+      "firstName": "Fabiana",
+      "lastName": "Fuentes",
+      "role": "Student",
+      "seatPosition": "Side of classroom",
+      "age": 106
+    },
+    {
+      "id": 10,
+      "firstName": "Thomas",
+      "lastName": "Herrmann",
+      "role": "Student",
+      "seatPosition": "Back of classroom",
+      "age": 67
+    },
+    {
+      "id": 11,
+      "firstName": "Nolan",
+      "lastName": "Johan",
+      "role": "Student",
+      "seatPosition": "West wall of classroom",
+      "age": 81
+    },
+    {
+      "id": 12,
+      "firstName": "Tate",
+      "lastName": "Knight",
+      "role": "Student",
+      "seatPosition": "East wall of classroom",
+      "age": 55
+    },
+    {
+      "id": 13,
+      "firstName": "Anna",
+      "lastName": "Lopresti",
+      "role": "Student",
+      "seatPosition": "Back of classroom",
+      "age": 67
+    },
+    {
+      "id": 14,
+      "firstName": "Ellie",
+      "lastName": "Prain",
+      "role": "Student",
+      "seatPosition": "Back of classroom",
+      "age": 99
+    }    
+  ]
+}
